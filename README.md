@@ -1,6 +1,4 @@
-# Right Click | Alfred Workflow
-
-<img src="img/logo.png" alt="Alfred Right Click Workflow" align="right" width="125px"/>
+# <img src="img/logo.png" alt="Alfred Right Click Workflow" align="center" width="45"/> Right Click | Alfred Workflow
 
 Trigger a right-click on anywhere with the keyboard.
 
