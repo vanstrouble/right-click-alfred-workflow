@@ -1,3 +1,17 @@
 # Right Click | Alfred Workflow
 
-Inspired by [Right Click](https://alfred.app/workflows/vitor/right-click/) workflow by Vitor Galvão.
+<img src="img/logo.png" alt="Alfred Right Click Workflow" align="right" width="125px"/>
+
+Trigger a right-click on anywhere with the keyboard.
+
+## Install
+
+- Get it on GitHub [here](https://github.com/vanstrouble/right-click-alfred-workflow.git/releases)
+
+## Usage
+
+Configure the [Hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/) to trigger a right-click in Finder selections via the keyboard.
+
+---
+
+Inspired by [Right Click](hthttps://github.com/vitorgalvao/right-click-workflow.git) workflow by Vitor Galvão.
