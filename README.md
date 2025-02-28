@@ -6,7 +6,7 @@ Trigger a right-click on anywhere with the keyboard.
 
 ## Install
 
-- Get it on GitHub [here](https://github.com/vanstrouble/right-click-alfred-workflow.git/releases)
+- Get it on GitHub [here](https://github.com/vanstrouble/right-click-alfred-workflow/releases)
 
 ## Usage
 
@@ -14,4 +14,4 @@ Configure the [Hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/
 
 ---
 
-Inspired by [Right Click](hthttps://github.com/vitorgalvao/right-click-workflow.git) workflow by Vitor Galvão.
+Inspired by [Right Click](https://github.com/vitorgalvao/right-click-workflow.git) workflow by Vitor Galvão.
